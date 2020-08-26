@@ -22,3 +22,29 @@ body{
 .under{
     background: linear-gradient(transparent 70%, yellow 70%);
 }
+
+.hello{
+    padding-left: 20px;
+}
+
+
+.about_me{
+    padding-left: 40px;
+}
+
+.introduction img{
+    padding-left: 20px;
+}
+
+.introduction h3{
+    padding-left: 20px;
+}
+
+.history li{
+    padding-left: 40px;
+    font-weight: bold;
+}
+
+.history h3{
+    padding-left: 20px;
+}
