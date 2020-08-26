@@ -3,6 +3,10 @@ body {
     margin:0;
 }
 
+body{
+    background-image: url("../img/siguma.jpeg");
+}
+
 .header {
     background-color: #26d0c9;
     color: #fff;
